@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	149409371	AquaLungers_MenuTheme_Intro	C:\Users\rh_mk\Desktop\RPGProject_1\RPG Project Wwise\RPG Project 1\.cache\Mac\SFX\AquaLungers_MenuTheme_Intro_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music Sample\AquaLungers_MenuTheme_Intro\AquaLungers_MenuTheme_Intro		2952108
+	174969013	AquaLungers_MenuTheme_Main	C:\Users\rh_mk\Desktop\RPGProject_1\RPG Project Wwise\RPG Project 1\.cache\Mac\SFX\AquaLungers_MenuTheme_Main_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music Sample\AquaLungers_MenuTheme_Main\AquaLungers_MenuTheme_Main		18522068
+	445660192	AquaLungers_MenuTheme_Bridge	C:\Users\rh_mk\Desktop\RPGProject_1\RPG Project Wwise\RPG Project 1\.cache\Mac\SFX\AquaLungers_MenuTheme_Bridge_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music Sample\AquaLungers_MenuTheme_Bridge\AquaLungers_MenuTheme_Bridge		5773160
+
